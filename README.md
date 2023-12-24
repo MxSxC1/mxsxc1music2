@@ -1,9 +1,9 @@
 # mxsxc1music2
 Minecraft Custom Sounds &amp; Music
 
-Music by MxSxC1. Only use work with artists permission, and respect copyright.
+Music by MxSxC1. Sleet Recorded Live. Only use work with artists permission, and respect copyright.
 
-Drop this in your resourcepakc folder.
+Drop the folder "mxsxc1_music2" in your resourcepack folder.
 
 I deliberately do not use "music" and instead use "ambient" to save clashes with Minecraft music which I mute...
 
