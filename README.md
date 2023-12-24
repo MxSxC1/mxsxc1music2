@@ -5,7 +5,7 @@ Music by MxSxC1. Sleet Recorded Live. Only use work with artists permission, and
 
 Drop the folder "mxsxc1_music2" in your resourcepack folder. For example:
 
-C:\Users\[UserName]\AppData\Roaming\.minecraft\resourcepacks\mxsxc1_music2\assets\minecraft\sounds\custom\mxsxc1_sleet.ogg
+C:\Users\[UserName]\AppData\Roaming\.minecraft\resourcepacks\mxsxc1_music2\
 
 I deliberately do not use "music" and instead use "ambient" to save clashes with Minecraft music which I mute...
 
