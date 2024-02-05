@@ -1,7 +1,8 @@
 {
   "pack": {
     "pack_format": 22,
-    "description": "MxSxC1 Custom Music & Sounds"
+    "description": "MxSxC1 Custom Music & Sounds",
+    "supported_formats": {"min_inclusive": 21, "max_inclusive": 35}
   }
 }
 
